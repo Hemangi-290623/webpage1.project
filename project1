@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        #head{
+            text-align: center;
+        }
+        #auth{
+            text-align: right;
+        }
+        .book3{
+            padding-inline-start: 20px;
+        }
+        
+        </style>
+    <H1>
+        <div id="head"><B>The Shiva Trilogy </B><br/></div>
+        <cite>
+            <h5><div id="auth"><a href="https://en.wikipedia.org/wiki/Amish_Tripathi" target="_blank">AMISH TRIPATHI</a></h5></div>
+        </cite>
+            </H1>
+        </head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+        </head>
+        <section>
+            <hr>
+            <h3><i>The Shiva Trilogy book series by Amish Tripathi includes books The Immortals of Meluha, The Secret of the Nagas, and The Oath of the Vayuputras.
+                 See the complete Shiva Trilogy series book list in order, box sets or omnibus editions, and companion titles.</i>
+            </h3>
+        </section>
+        <p>
+            <a href="#characters">Characters of the book</a> <br/>
+            <a href="#author">Know about the author </a> <br/>
+            <a href="#accomplishments">Authors accomplishments and work</a>
+           
+        </p>
+    
+    <style>
+        html{
+            background-color: burlywood;
+        }
+    
+    .container {
+        display: flex;
+        align-items:center;
+        justify-content: center;
+      }
+      
+      .img {
+        max-width: 250;
+        max-height: 370px;;
+      }
+      
+      .text {
+        font-size: 20px;
+        padding-left: 20px;
+      }
+      
+      
+        </style>
+        <body>
+          <div class="container">
+            <div class="image">
+                <img src="https://upload.wikimedia.org/wikipedia/en/0/0e/The_Immortals_Of_Meluha.jpg" width="264px" height="377"> <figcaption><a href="https://www.amazon.in/Immortals-Meluha-Shiva-Trilogy-Book/dp/9356290520" target="_blank">click to buy the book </a>
+                    <h5> <i>The Immortals of Meluha is the first book of Amish Tripathi,<br/> first book of Amishverse, and also the first book of Shiva Trilogy.
+                        The story is set in the land of Meluha and starts with the arrival of the Shiva.
+                         The Meluhans believe that Shiva is their fabled saviour Neelkanth.
+                         Shiva decides to help the Meluhans in their war against the Chandravanshis, who had joined forces with a cursed Nagas;
+                          however, during his journey and the fight that ensues, 
+                         Shiva learns how his choices actually reflect who he aspires to be and how they lead to dire consequences.</h5></i> <hr>
+                
+                </figcaption>
+            </figure>
+            <br/>
+            <h3 id="characters">
+                <i>
+                    CHARACTERS:
+                </i>
+            </h3>
+            <UL>
+                <LI>
+                    SHIVA:The main character in the story. He is a Tibetan immigrant to Meluha and the chief of the Guna tribe.</LI><BR/>
+                </LI>
+                <LI>SATI: The Meluhan princess, she is the daughter of emperor Daksha. Shiva falls in love with her but cannot marry her because of a law that considers her to be a Vikarma, an untouchable.</LI></BR>
+                <LI>THE LORD OF THE PEOPLE: A powerful Naga with mysterious origins</LI></BR>
+                <LI>NANDI: A captain in the Meluhan army. A loyal devotee of Shiva, who is often considered for his opinion and suggestions by Shiva.</LI></BR>
+                <LI>DAKSHA:The Emperor of the Meluhans, he is appreciative of every effort that Shiva does to save his country.</LI></BR>
+                <LI> .....MANY MORE </LI>
+            </UL>
+            
+            
+        </div>
+                <div class="text">
+                    <p>
+                       
+                    </p>
+                </div>
+                <br/>
+                <style>
+ .container {
+        display: flex;
+        align-items:center;
+        justify-content: center;
+      }
+      
+      .img {
+        max-width: 250;
+        max-height: 370px;;
+      }
+      
+      .text {
+        font-size: 20px;
+        padding-inline: 20px;
+      }
+      
+  </style>
+                    <body>
+                      <div class="container">
+                        <div class="image">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/7/78/The_Secret_of_the_Nagas.jpg" width="264px" height="377">
+                            <figcaption>
+                            <a href="https://www.amazon.in/Secret-Nagas-Shiva-Trilogy-Book/dp/9356290601" target="_blank"> click to buy the book </a> 
+                                <h5> <i>The Secret of the Nagas is the second book of Amish Tripathi,second book of Amishverse, <br/>and also the second book of Shiva Trilogy.
+                                    The story takes place in the imaginary land of Meluha<br/> and narrates how the inhabitants of that land are saved from their wars by a nomad named Shiva. 
+                                  <br/>  It begins from where its predecessor, The Immortals of Meluha, left off, with Shiva<br/> trying to save Sati from the invading Naga.
+                                     Later Shiva takes his troop of soldiers and travels far east<br/> to the land of Branga, where he wishes to find a clue to reach the Naga people.
+                                      Shiva also learns that<br/> Sati's first child is still alive, as well as her twin sister.
+                                    His journey ultimately leads him to the Naga <br/>capital of Panchavati, where he finds a surprise waiting for him.
+                                    Tripathi started writing The Secret of the Nagas while the first part of the trilogy was being released. He relied on his knowledge of geography and history to expand the locations visited in the story
+                                  </h5> </i>
+                                </figcaption>
+                                  <hr>
+                                  <h3 id="author">THE AUTHOR </h3>
+                                  <br/>
+                                  <image src="data:image/jpeg;base64,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" width="150" height="250"></image>
+                                  <figure>
+                                    <figcaption><I>
+                                        Amish Tripathi (born 18 October 1974) is an Indian author and diplomat. He is known best for The Shiva Trilogy and Ram Chandra Series.
+                     Amish's books have sold over 6 million copies in the Indian subcontinent since 2010.
+                    He is also Minister (Culture & Education)at the High Commission of India in the UK and Director of the Nehru Centre, London.
+                    In addition, he is a host for TV documentaries, most recently for Discovery TV, in Legends of the Ramayan and also The Journey of India with co-host Amitabh Bachchan
+                    In September 2020, he announced that he is turning into a producer with an adaptation of his novel, Legend of Suheldev: The King Who Saved India, under the banner Immortal Studios, with Wakaoo Films and Casa Media</I>
+
+                                    </figcaption>
+                                  </figure>
+                            
+                            
+                            
+                            
+                            
+                            </figcaption>
+                        </figure>
+                        
+                    </div>
+                    <style>
+                       html{
+                        scroll-behavior: smooth;
+                       }
+                        
+                    </style>
+
+                    <div class="container">
+                        <div class="image">
+                            <img src="https://upload.wikimedia.org/wikipedia/en/e/e5/The_Oath_of_the_Vayuputras.jpg" width="264px" height="377"> <figcaption><a href="https://www.amazon.in/Oath-Vayuputras-Shiva-Trilogy-Book/dp/9356290687" target="_blank">click to buy the book </a>
+                                <h5>  <i>Starting from where the previous installment left off, Shiva discovers what is the true evil in The Oath of the Vayuputras. 
+                                    Shiva then declares a holy war on those who seek to continue to use it, mainly the Emperors Daksha and Dilipa, who are being controlled by the sage Bhrigu. 
+                                    The battle rages on and Shiva travels to the land of Pariha to consult with Vayuputras, a legendary tribe. 
+                                    By the time he returns, the war has ended with Sati, his wife, being murdered. 
+                                    An enraged Shiva destroys the capital of Meluha and Somras is wiped out of history. 
+                                    The story concludes with Shiva and his associates being popularized as Gods for their deeds and accomplishments.</i>
+                                  </h5>
+                                  <hr>
+                                  <P>
+                                   <h3 id="accomplishments"His other books and upcoming projects....</b></P></h3>
+                                   <br/>
+                                   Ram Chandra series<ul>
+                                    <li><a href="https://en.wikipedia.org/wiki/Scion_of_Ikshvaku">Scion of Ikshvaku (2015)</li></a> 
+                                    <li><a href="https://en.wikipedia.org/wiki/Sita:_Warrior_of_Mithila"> Warrior of Mithila (2017)</li></a>
+                                    <li><a href="https://en.wikipedia.org/wiki/Raavan:_Enemy_of_Aryavarta"> Enemy of Aryavarta (2019)</li></a>
+                                   </ul>
+                                   Indic Chronicles
+                                   <ul>
+                                    <li>
+                                       <a href="https://en.wikipedia.org/wiki/Legend_of_Suheldev:_The_King_Who_Saved_India">Legend of Suheldev: The King Who Saved India (2020)</a> 
+                                    </li>
+                                   </ul>
+                                   Non-fiction
+                                   <ul>
+                                    <li>
+                                        Immortal India: Young India, Timeless Civilisation (2017)</li>
+                                        <li>Dharma: Decoding the Epics for a Meaningful Life (2020)</li>
+                                   </ul>
+                                   <b>Awards and recognition</b>
+                                   <ul>
+                                    <li>21st Century Icon Awards, London (2021)</li>
+                                    <li>Golden Book Award - Legend of Suheldev (2022)</li>
+                                    <li>Listed among Top-50 Most Powerful People by India Today (2019)</li>
+                                    <li>Honorary Doctorate by Jharkhand Rai University for outstanding contribution to Art & Literature (2019)</li>
+                                    <li>Hello Hall of Fame Awards for Literary Excellence (2019)</li>
+                                    <li>Jashn-e-youngistan Award (2018)</li>
+                                   </ul>
+
+                                  </P>
+                                  
+                        
+                            
+                            
+                            
+                            
+                            </figcaption>
+                        </figure>
+                        
+                    </div>
+
+    
+</body>
+</html>
