@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        .box{
+            height: 450px;
+            width: 420px;
+            border: 2px solid black;
+            padding-left: 30px;
+            padding-top: 20px;
+
+        }
+    .rounded{
+        border-radius: 20px;
+    }
+    h3{
+        color: blueviolet;
+    }
+button{
+    color:green;
+    text-decoration-color: #ffffff;
+}
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- https://cfj9x3.csb.app/ -->
+</head>
+<body>
+    
+    <div class="box" id="ysp" >
+        
+        <img src="https://codehelp.s3.ap-south-1.amazonaws.com/Web_Dev_670f900667.jpg" class="rounded" width="389.400px" height="219.038" rounded="2px">
+
+       <h2><b>Web Development Master<br/> Course @dot Batch </h2></b> 
+       <hr>
+       <DIV><h3>₹ 4500   <del> ₹ 6999 </h3></del> <button> 42% OFF </button></DIV>
+    </div>
+</body>
+</html>
